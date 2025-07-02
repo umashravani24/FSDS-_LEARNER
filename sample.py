@@ -1,1 +1,0 @@
-print("welocme to the sample script")
