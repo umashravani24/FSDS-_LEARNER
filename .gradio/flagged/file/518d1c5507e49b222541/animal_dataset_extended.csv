@@ -1,0 +1,501 @@
+Animal,Breed,Age (years),Weight (kg),Color,Location,Habitat,Diet,Is_Domestic
+Horse,Mustang,3,254.7,LightCyan,North Jaime,Desert,Omnivore,Yes
+Cat,Siamese,2,152.0,LawnGreen,Evansfort,Forest,Carnivore,Yes
+Elephant,Asian,11,118.8,OrangeRed,North Margaret,Savannah,Omnivore,No
+Dog,German Shepherd,7,74.8,PaleGoldenRod,Williamsfort,Urban,Herbivore,Yes
+Dog,Labrador,9,303.4,DodgerBlue,Burkemouth,Jungle,Omnivore,Yes
+Lion,Asiatic,11,57.4,Brown,North Scott,Desert,Omnivore,No
+Goat,Nubian,6,9.7,LightSlateGray,Jerrychester,Mountain,Carnivore,Yes
+Tiger,Bengal,6,21.1,Navy,Knappmouth,Savannah,Carnivore,No
+Cat,Persian,5,484.0,Tomato,Port Laurieshire,Desert,Herbivore,Yes
+Dog,Bulldog,16,492.4,SkyBlue,Haydenfurt,Jungle,Herbivore,Yes
+Lion,Asiatic,6,161.4,Fuchsia,New James,Farm,Herbivore,No
+Elephant,African,20,328.4,SlateGray,North Zachary,Urban,Herbivore,No
+Lion,Asiatic,14,233.2,Snow,Port Victor,Forest,Herbivore,No
+Parrot,Macaw,1,193.1,SlateBlue,Melvinfurt,Forest,Herbivore,Yes
+Dog,German Shepherd,10,477.5,GreenYellow,Mathisfort,Urban,Herbivore,Yes
+Elephant,Asian,16,180.3,DarkOrchid,North Donnafort,Savannah,Carnivore,No
+Elephant,Asian,18,222.2,Green,Romanfort,Farm,Herbivore,No
+Dog,German Shepherd,14,170.5,MidnightBlue,New Carlamouth,Urban,Omnivore,Yes
+Cat,Siamese,6,153.0,Brown,East Douglas,Forest,Herbivore,Yes
+Lion,Asiatic,16,303.9,MediumSlateBlue,Jefferybury,Urban,Herbivore,No
+Lion,African,7,292.4,Coral,East Diana,Wetlands,Carnivore,No
+Cow,Sahiwal,6,58.0,Cyan,Laurieberg,Farm,Omnivore,Yes
+Dog,German Shepherd,19,435.8,DarkBlue,Dunnview,Jungle,Herbivore,Yes
+Goat,Nubian,15,468.4,Aquamarine,Port Lisa,Jungle,Carnivore,Yes
+Goat,Nubian,2,260.7,SteelBlue,Lake David,Forest,Omnivore,Yes
+Cow,Jersey,8,135.1,GhostWhite,Johnsonview,Forest,Carnivore,Yes
+Tiger,Siberian,13,180.5,Thistle,Pachecoside,Wetlands,Carnivore,No
+Parrot,Budgerigar,1,286.3,Salmon,Andrewtown,Wetlands,Carnivore,Yes
+Parrot,Macaw,15,251.5,RoyalBlue,Port Christinafurt,Farm,Omnivore,Yes
+Rabbit,Lop,16,347.9,MediumSlateBlue,Alvaradoside,Desert,Carnivore,Yes
+Rabbit,Dutch,2,361.7,DeepSkyBlue,Wilsonport,Jungle,Omnivore,Yes
+Parrot,Macaw,5,293.1,RosyBrown,North Paulland,Forest,Carnivore,Yes
+Dog,German Shepherd,8,433.6,CornflowerBlue,New Alexis,Desert,Omnivore,Yes
+Tiger,Bengal,20,89.4,Gold,Millerfort,Urban,Omnivore,No
+Cow,Sahiwal,10,228.1,Maroon,Sheliaberg,Wetlands,Herbivore,Yes
+Goat,Nubian,10,8.6,Coral,Lake Bryan,Wetlands,Herbivore,Yes
+Horse,Arabian,7,288.9,SeaGreen,West Emily,Wetlands,Carnivore,Yes
+Tiger,Siberian,6,240.7,BurlyWood,Rogersberg,Forest,Omnivore,No
+Elephant,Asian,18,199.8,DeepSkyBlue,Sanchezstad,Forest,Herbivore,No
+Elephant,African,17,130.7,Navy,Lake Angelica,Savannah,Omnivore,No
+Dog,German Shepherd,4,177.3,MediumSlateBlue,East Jennyburgh,Farm,Carnivore,Yes
+Dog,Bulldog,5,198.1,BlanchedAlmond,Tarafort,Jungle,Herbivore,Yes
+Rabbit,Lop,15,213.2,Maroon,West Shelley,Urban,Omnivore,Yes
+Rabbit,Mini Rex,14,156.1,DarkSlateGray,Bobbyport,Mountain,Omnivore,Yes
+Rabbit,Lop,4,70.3,LightCoral,Molinaborough,Farm,Carnivore,Yes
+Horse,Thoroughbred,19,483.7,OrangeRed,North Andrea,Forest,Herbivore,Yes
+Rabbit,Mini Rex,10,413.0,Crimson,Port Erinside,Desert,Omnivore,Yes
+Cat,Siamese,16,123.7,Sienna,Jacobmouth,Wetlands,Carnivore,Yes
+Elephant,Asian,11,478.9,HoneyDew,Port Angela,Forest,Herbivore,No
+Parrot,Cockatiel,10,139.9,ForestGreen,Port Sarahmouth,Urban,Herbivore,Yes
+Goat,Nubian,10,153.3,DarkGoldenRod,East Nicole,Farm,Carnivore,Yes
+Goat,Saanen,5,14.2,CadetBlue,Johnsonmouth,Urban,Herbivore,Yes
+Elephant,African,3,483.1,PaleVioletRed,Lake Richard,Mountain,Carnivore,No
+Horse,Mustang,16,453.2,SlateBlue,Lake Bobby,Wetlands,Omnivore,Yes
+Dog,Bulldog,6,494.3,HoneyDew,Lake Carol,Farm,Herbivore,Yes
+Cat,Persian,1,135.9,DarkTurquoise,Wilsonland,Mountain,Omnivore,Yes
+Cat,Persian,4,90.4,LightBlue,Tuckerfurt,Wetlands,Carnivore,Yes
+Horse,Mustang,11,430.1,GreenYellow,Micheleton,Mountain,Carnivore,Yes
+Rabbit,Dutch,9,80.0,Peru,South Alec,Forest,Omnivore,Yes
+Tiger,Siberian,2,241.3,YellowGreen,Lauratown,Savannah,Omnivore,No
+Dog,Labrador,18,73.9,LightGray,Johnsonfurt,Desert,Carnivore,Yes
+Cat,Persian,2,252.6,DarkSlateGray,New Sierraville,Savannah,Carnivore,Yes
+Horse,Thoroughbred,20,53.2,Sienna,New Gabrielhaven,Urban,Carnivore,Yes
+Parrot,Cockatiel,5,80.4,Indigo,South Karentown,Desert,Omnivore,Yes
+Cat,Persian,13,187.9,LightCoral,Port Kathleen,Desert,Herbivore,Yes
+Lion,African,19,212.8,DarkGray,New Cynthia,Savannah,Carnivore,No
+Elephant,Asian,6,39.1,MediumBlue,Garciaview,Jungle,Omnivore,No
+Parrot,Cockatiel,4,16.2,DarkTurquoise,Port Jaredmouth,Forest,Carnivore,Yes
+Goat,Saanen,18,200.0,IndianRed,South John,Jungle,Omnivore,Yes
+Tiger,Siberian,12,89.8,HotPink,North Annhaven,Farm,Herbivore,No
+Elephant,African,17,179.6,LemonChiffon,South Samanthaton,Desert,Herbivore,No
+Elephant,Asian,13,443.8,DodgerBlue,North Susanchester,Farm,Carnivore,No
+Tiger,Siberian,20,361.5,GreenYellow,Tylerchester,Desert,Omnivore,No
+Goat,Boer,14,284.5,Magenta,Lake Robertfort,Savannah,Carnivore,Yes
+Tiger,Siberian,14,206.5,Orange,South Ronaldstad,Wetlands,Herbivore,No
+Rabbit,Lop,8,128.8,DarkViolet,Port Erin,Desert,Carnivore,Yes
+Elephant,Asian,7,486.5,Orchid,Colleenburgh,Mountain,Herbivore,No
+Elephant,African,1,304.6,DarkSeaGreen,Tranchester,Jungle,Herbivore,No
+Rabbit,Mini Rex,6,229.9,MintCream,Fosterstad,Forest,Herbivore,Yes
+Rabbit,Lop,10,92.8,DeepSkyBlue,Lake Sarahhaven,Forest,Omnivore,Yes
+Cat,Siamese,5,462.2,Orange,Marieberg,Forest,Omnivore,Yes
+Dog,German Shepherd,1,478.8,DarkOrange,North William,Wetlands,Carnivore,Yes
+Lion,African,10,277.0,DarkSlateGray,Brownfort,Savannah,Omnivore,No
+Elephant,Asian,12,497.2,MediumTurquoise,Archerport,Urban,Omnivore,No
+Parrot,Cockatiel,6,204.0,Purple,East Melissatown,Wetlands,Herbivore,Yes
+Elephant,Asian,4,339.4,CornflowerBlue,Parkerport,Wetlands,Herbivore,No
+Tiger,Bengal,11,60.4,LimeGreen,Lewisbury,Jungle,Herbivore,No
+Rabbit,Dutch,4,162.5,Yellow,Freemanshire,Savannah,Omnivore,Yes
+Cat,Persian,12,242.0,Green,Hobbsville,Desert,Herbivore,Yes
+Rabbit,Mini Rex,12,265.4,Chartreuse,Lake Luistown,Farm,Carnivore,Yes
+Horse,Arabian,19,439.8,Snow,Sharonborough,Savannah,Herbivore,Yes
+Parrot,Cockatiel,11,278.6,Chartreuse,Breannafurt,Wetlands,Omnivore,Yes
+Tiger,Siberian,16,164.6,Green,Lake Nicoleview,Farm,Carnivore,No
+Lion,African,12,290.2,Ivory,Port Juliefurt,Jungle,Carnivore,No
+Cat,Siamese,18,342.3,Fuchsia,Kennethstad,Farm,Carnivore,Yes
+Parrot,Macaw,9,204.7,DeepSkyBlue,North Kaylaside,Farm,Herbivore,Yes
+Parrot,Macaw,17,371.0,Tan,West Margaretfurt,Savannah,Omnivore,Yes
+Parrot,Macaw,14,353.4,Thistle,New Thomaschester,Farm,Carnivore,Yes
+Elephant,African,18,445.9,Tomato,Waremouth,Farm,Omnivore,No
+Goat,Nubian,1,328.2,LightGreen,Lake Madisonview,Forest,Herbivore,Yes
+Tiger,Bengal,3,334.4,GhostWhite,North Amanda,Jungle,Herbivore,No
+Tiger,Bengal,3,7.3,LawnGreen,Ericamouth,Forest,Carnivore,No
+Cat,Persian,6,48.9,DarkSeaGreen,Joseport,Wetlands,Herbivore,Yes
+Rabbit,Dutch,1,396.1,DarkMagenta,Port Leonard,Savannah,Herbivore,Yes
+Cow,Sahiwal,11,351.0,Gray,West Jessica,Mountain,Carnivore,Yes
+Cow,Sahiwal,1,308.0,LightPink,New Brenda,Urban,Omnivore,Yes
+Horse,Arabian,14,82.7,Fuchsia,West Kristiberg,Desert,Carnivore,Yes
+Rabbit,Mini Rex,14,400.2,PaleVioletRed,Jacksonland,Urban,Omnivore,Yes
+Parrot,Macaw,1,108.8,PaleGreen,Lake Christopher,Farm,Herbivore,Yes
+Tiger,Bengal,13,358.0,YellowGreen,Justinmouth,Savannah,Carnivore,No
+Parrot,Cockatiel,14,55.4,Gray,Emilyfort,Jungle,Herbivore,Yes
+Lion,African,20,161.4,Blue,Carolynborough,Farm,Carnivore,No
+Parrot,Cockatiel,18,118.1,SlateBlue,Pacemouth,Forest,Herbivore,Yes
+Dog,Labrador,15,77.7,MistyRose,Cindyville,Jungle,Herbivore,Yes
+Horse,Thoroughbred,8,375.9,Magenta,Bradside,Desert,Omnivore,Yes
+Parrot,Budgerigar,13,106.4,DarkCyan,New Kathryn,Desert,Herbivore,Yes
+Cow,Jersey,15,74.7,Gold,New Carolyn,Farm,Omnivore,Yes
+Goat,Nubian,3,470.6,Gold,Justinberg,Savannah,Carnivore,Yes
+Dog,Labrador,1,186.2,LavenderBlush,Kingbury,Farm,Herbivore,Yes
+Cow,Gir,18,33.9,DarkMagenta,Donnaberg,Urban,Omnivore,Yes
+Cow,Sahiwal,5,327.3,DarkSeaGreen,Harrisbury,Mountain,Omnivore,Yes
+Cat,Persian,8,164.9,ForestGreen,New Lori,Savannah,Carnivore,Yes
+Goat,Saanen,12,414.9,HoneyDew,South Nicole,Farm,Herbivore,Yes
+Dog,Labrador,19,436.2,GreenYellow,East Amy,Desert,Herbivore,Yes
+Tiger,Bengal,13,353.6,Purple,Port Kristinstad,Mountain,Omnivore,No
+Cow,Sahiwal,1,200.8,PaleGreen,North Catherine,Savannah,Carnivore,Yes
+Parrot,Budgerigar,18,143.4,DarkSeaGreen,Sullivanside,Desert,Carnivore,Yes
+Horse,Mustang,6,244.0,Coral,Murphyhaven,Jungle,Carnivore,Yes
+Parrot,Macaw,14,429.9,LimeGreen,Lake Kristopherchester,Wetlands,Omnivore,Yes
+Dog,German Shepherd,20,255.8,Brown,Pamelaview,Forest,Omnivore,Yes
+Lion,African,9,346.9,LimeGreen,New Richardfurt,Wetlands,Herbivore,No
+Tiger,Siberian,18,75.9,RoyalBlue,North Anna,Jungle,Omnivore,No
+Lion,Asiatic,8,213.4,LightBlue,Tammyberg,Forest,Carnivore,No
+Horse,Arabian,6,382.0,DarkKhaki,New Mikayla,Forest,Omnivore,Yes
+Goat,Boer,3,57.8,LightCoral,Brandonton,Mountain,Omnivore,Yes
+Elephant,Asian,7,113.7,DeepSkyBlue,New Marktown,Farm,Herbivore,No
+Dog,Labrador,7,487.0,RosyBrown,Lake Robin,Savannah,Omnivore,Yes
+Cow,Gir,6,216.6,LightPink,West Troyberg,Urban,Herbivore,Yes
+Cat,Siamese,11,7.9,DimGray,New Christinetown,Urban,Carnivore,Yes
+Horse,Mustang,17,433.6,Aqua,East Christina,Desert,Carnivore,Yes
+Cat,Maine Coon,18,97.9,LightYellow,North Alexandriamouth,Savannah,Carnivore,Yes
+Parrot,Cockatiel,13,431.0,LightSlateGray,Craigbury,Mountain,Carnivore,Yes
+Cat,Maine Coon,18,485.2,LightCyan,Vargasside,Farm,Herbivore,Yes
+Cow,Gir,5,281.7,BurlyWood,Davidtown,Desert,Omnivore,Yes
+Parrot,Cockatiel,12,29.0,Chartreuse,Port David,Forest,Herbivore,Yes
+Cat,Persian,4,155.6,DarkOliveGreen,Taylorburgh,Urban,Omnivore,Yes
+Goat,Boer,8,283.8,LimeGreen,Roberthaven,Urban,Herbivore,Yes
+Dog,German Shepherd,17,307.4,OrangeRed,East Davidchester,Farm,Omnivore,Yes
+Parrot,Cockatiel,12,372.5,Green,West Jennifermouth,Farm,Herbivore,Yes
+Horse,Mustang,4,297.6,MediumBlue,Melanieview,Desert,Herbivore,Yes
+Elephant,African,11,464.0,Gainsboro,Lake Carolyn,Mountain,Omnivore,No
+Cow,Sahiwal,8,173.5,OldLace,Henryview,Desert,Carnivore,Yes
+Dog,Labrador,2,93.3,MediumSpringGreen,Dwaynetown,Farm,Herbivore,Yes
+Cat,Persian,11,264.9,SeaShell,Port Julia,Jungle,Herbivore,Yes
+Lion,African,14,281.6,MidnightBlue,Sonyaburgh,Urban,Carnivore,No
+Parrot,Macaw,17,128.6,Bisque,Crystalmouth,Jungle,Omnivore,Yes
+Elephant,African,4,415.9,LightCoral,Riddlebury,Farm,Carnivore,No
+Tiger,Siberian,13,274.0,LawnGreen,Reedmouth,Forest,Carnivore,No
+Dog,Bulldog,7,471.2,PaleTurquoise,Masonton,Urban,Omnivore,Yes
+Cow,Jersey,3,250.3,SpringGreen,Smithview,Farm,Omnivore,Yes
+Horse,Thoroughbred,11,80.2,MintCream,New Patrick,Desert,Carnivore,Yes
+Goat,Saanen,13,359.8,LightGoldenRodYellow,Lake Linda,Forest,Omnivore,Yes
+Lion,Asiatic,17,240.5,Khaki,Bowmanborough,Jungle,Herbivore,No
+Dog,Labrador,20,6.9,CadetBlue,Matthewchester,Desert,Carnivore,Yes
+Lion,Asiatic,4,5.2,MediumSlateBlue,Lake Wendy,Jungle,Carnivore,No
+Cat,Maine Coon,12,483.5,GreenYellow,West Jamesfurt,Farm,Omnivore,Yes
+Lion,African,1,415.7,MediumVioletRed,Fraziermouth,Farm,Carnivore,No
+Dog,Labrador,7,285.7,DarkKhaki,Michelleburgh,Jungle,Carnivore,Yes
+Cow,Gir,5,127.1,LightGray,Port Levi,Savannah,Carnivore,Yes
+Dog,Bulldog,16,464.3,DimGray,East Robinland,Jungle,Herbivore,Yes
+Goat,Nubian,19,487.4,SaddleBrown,Caldwellburgh,Jungle,Carnivore,Yes
+Horse,Mustang,3,86.6,Lavender,New Leahburgh,Farm,Carnivore,Yes
+Dog,Bulldog,10,314.2,AliceBlue,East Erin,Urban,Omnivore,Yes
+Cat,Maine Coon,3,70.6,DarkGray,Nicolemouth,Farm,Carnivore,Yes
+Lion,African,17,129.7,SteelBlue,East Jerry,Desert,Omnivore,No
+Dog,Bulldog,19,20.6,DarkBlue,Davidhaven,Savannah,Omnivore,Yes
+Lion,Asiatic,9,95.8,Blue,Brownburgh,Forest,Herbivore,No
+Horse,Arabian,3,268.9,MediumOrchid,North Ryanstad,Wetlands,Herbivore,Yes
+Lion,Asiatic,4,344.3,Lavender,South Roberttown,Savannah,Carnivore,No
+Dog,Labrador,14,359.1,PeachPuff,New Lindaville,Desert,Omnivore,Yes
+Lion,African,13,218.5,Chocolate,North Sharon,Urban,Carnivore,No
+Dog,Bulldog,11,86.0,ForestGreen,Evanshire,Forest,Herbivore,Yes
+Elephant,African,4,407.6,LightPink,Johnsonfort,Desert,Omnivore,No
+Horse,Thoroughbred,3,327.5,Cornsilk,Ashleymouth,Farm,Carnivore,Yes
+Cow,Sahiwal,16,472.0,PowderBlue,Martinmouth,Wetlands,Herbivore,Yes
+Lion,Asiatic,20,35.2,Navy,New Brittanyport,Forest,Carnivore,No
+Cow,Gir,5,344.8,LightGreen,North Jenniferchester,Jungle,Carnivore,Yes
+Elephant,Asian,2,196.7,GreenYellow,East Amandaburgh,Mountain,Herbivore,No
+Cat,Persian,14,8.6,Coral,Schultzview,Wetlands,Omnivore,Yes
+Elephant,African,16,223.2,MediumAquaMarine,Rodriguezland,Forest,Carnivore,No
+Lion,African,2,355.2,Azure,Michaelfurt,Mountain,Omnivore,No
+Tiger,Bengal,11,204.7,LightSeaGreen,West Melindashire,Farm,Omnivore,No
+Tiger,Siberian,4,230.1,SaddleBrown,Port Tracyhaven,Urban,Herbivore,No
+Cow,Jersey,20,386.7,Magenta,Port Christopherburgh,Wetlands,Carnivore,Yes
+Lion,Asiatic,15,441.6,Red,New Alexander,Farm,Herbivore,No
+Parrot,Budgerigar,6,232.6,White,Gardnermouth,Savannah,Herbivore,Yes
+Rabbit,Mini Rex,16,301.0,Chartreuse,Joshuastad,Wetlands,Carnivore,Yes
+Elephant,Asian,11,167.0,Violet,West Kyle,Urban,Herbivore,No
+Elephant,African,6,350.4,MediumPurple,North Wandamouth,Desert,Omnivore,No
+Cat,Persian,3,420.9,DarkRed,Lake Rebecca,Jungle,Carnivore,Yes
+Tiger,Bengal,7,234.5,MistyRose,New Williamberg,Farm,Omnivore,No
+Parrot,Cockatiel,20,487.4,FireBrick,New Danielchester,Jungle,Herbivore,Yes
+Parrot,Macaw,10,108.1,Olive,Smithberg,Farm,Herbivore,Yes
+Goat,Saanen,5,241.1,ForestGreen,Petersonburgh,Urban,Omnivore,Yes
+Lion,African,14,169.6,PapayaWhip,Conniemouth,Forest,Carnivore,No
+Horse,Arabian,18,412.8,DarkMagenta,Fischerborough,Forest,Carnivore,Yes
+Parrot,Budgerigar,13,27.8,Plum,Wongport,Jungle,Carnivore,Yes
+Goat,Saanen,18,394.9,Cyan,Hamptonborough,Mountain,Carnivore,Yes
+Elephant,African,19,306.3,Beige,Yolandastad,Forest,Herbivore,No
+Dog,Labrador,14,287.9,GhostWhite,West Erica,Urban,Omnivore,Yes
+Parrot,Budgerigar,17,473.7,AntiqueWhite,Port Candice,Farm,Omnivore,Yes
+Cat,Persian,1,459.4,PaleTurquoise,Garciaview,Desert,Carnivore,Yes
+Rabbit,Dutch,9,72.3,Black,Millerstad,Jungle,Omnivore,Yes
+Lion,African,11,154.8,LimeGreen,Barbaraside,Jungle,Omnivore,No
+Cat,Siamese,6,65.9,LightSkyBlue,Johnchester,Wetlands,Omnivore,Yes
+Cow,Sahiwal,10,374.7,DarkTurquoise,West Sheilamouth,Desert,Carnivore,Yes
+Cat,Maine Coon,4,131.6,Gold,Heatherport,Urban,Omnivore,Yes
+Parrot,Budgerigar,7,172.0,MediumSeaGreen,Powersland,Desert,Carnivore,Yes
+Tiger,Siberian,7,319.3,OrangeRed,Marquezshire,Desert,Carnivore,No
+Cat,Maine Coon,15,81.5,Pink,East Connie,Mountain,Omnivore,Yes
+Cow,Sahiwal,10,248.8,Bisque,Wilkinsonstad,Jungle,Carnivore,Yes
+Lion,Asiatic,5,387.5,SandyBrown,South Michael,Savannah,Herbivore,No
+Cow,Gir,8,238.6,GoldenRod,Grayshire,Desert,Omnivore,Yes
+Parrot,Macaw,3,241.4,Black,Thomasmouth,Farm,Carnivore,Yes
+Cow,Gir,18,74.8,Aqua,Lake James,Forest,Carnivore,Yes
+Goat,Saanen,17,446.5,SaddleBrown,Howardport,Desert,Carnivore,Yes
+Lion,Asiatic,9,100.4,Aquamarine,Lake Judyfurt,Wetlands,Omnivore,No
+Elephant,Asian,13,346.9,Teal,North Jamesfort,Urban,Omnivore,No
+Cow,Gir,17,81.7,LightYellow,Joshuaview,Urban,Omnivore,Yes
+Goat,Nubian,19,53.5,Chocolate,West Christina,Savannah,Herbivore,Yes
+Cow,Sahiwal,12,113.5,LightSlateGray,Matthewfort,Desert,Omnivore,Yes
+Tiger,Siberian,4,437.2,LightCoral,Alexanderside,Jungle,Omnivore,No
+Cow,Gir,2,2.3,Linen,Austinton,Forest,Omnivore,Yes
+Horse,Arabian,6,66.6,SteelBlue,Amandaburgh,Jungle,Carnivore,Yes
+Horse,Thoroughbred,19,357.7,PaleGoldenRod,Christopherburgh,Forest,Omnivore,Yes
+Cow,Jersey,18,94.1,SteelBlue,New Kaylabury,Forest,Herbivore,Yes
+Goat,Boer,14,229.2,PeachPuff,Yangberg,Jungle,Omnivore,Yes
+Dog,Bulldog,17,407.1,MediumBlue,South Saraborough,Forest,Herbivore,Yes
+Parrot,Budgerigar,11,56.8,Ivory,Kellyfort,Jungle,Carnivore,Yes
+Elephant,African,7,88.2,Crimson,East Lorettaberg,Jungle,Carnivore,No
+Rabbit,Mini Rex,8,444.1,Moccasin,South Jasonhaven,Wetlands,Carnivore,Yes
+Lion,African,10,3.2,DeepPink,Brendaborough,Desert,Omnivore,No
+Cow,Sahiwal,19,382.0,DarkRed,West Robertside,Farm,Herbivore,Yes
+Horse,Mustang,15,153.8,BlueViolet,Harperfurt,Mountain,Omnivore,Yes
+Horse,Arabian,5,276.8,MediumSpringGreen,Richardsview,Wetlands,Omnivore,Yes
+Elephant,Asian,1,263.9,CadetBlue,South Gloria,Savannah,Herbivore,No
+Cat,Siamese,5,5.7,Fuchsia,Danielton,Savannah,Carnivore,Yes
+Tiger,Siberian,14,169.2,LightSeaGreen,Port Deborahton,Savannah,Carnivore,No
+Cow,Jersey,11,5.4,Orchid,Lake Alishabury,Mountain,Omnivore,Yes
+Goat,Saanen,19,356.8,MistyRose,New Chasechester,Mountain,Omnivore,Yes
+Tiger,Bengal,19,144.0,Tomato,South Charlesland,Desert,Omnivore,No
+Horse,Arabian,4,87.5,Fuchsia,Nicolechester,Jungle,Herbivore,Yes
+Cow,Sahiwal,9,132.2,Gold,Barrettborough,Forest,Herbivore,Yes
+Lion,Asiatic,6,285.7,SlateGray,New Annette,Desert,Herbivore,No
+Cat,Persian,10,77.6,CadetBlue,South Thomas,Jungle,Omnivore,Yes
+Goat,Nubian,4,305.2,Indigo,Scottstad,Savannah,Carnivore,Yes
+Horse,Thoroughbred,13,103.4,Tomato,East Jenniferberg,Wetlands,Herbivore,Yes
+Dog,Bulldog,12,353.1,MediumSeaGreen,Mccoymouth,Mountain,Omnivore,Yes
+Tiger,Siberian,6,310.4,Fuchsia,Connorport,Jungle,Herbivore,No
+Cow,Sahiwal,18,195.1,Orange,Lake Lauren,Wetlands,Carnivore,Yes
+Cat,Maine Coon,16,114.9,SteelBlue,Port Charlesport,Forest,Omnivore,Yes
+Goat,Boer,10,185.9,HoneyDew,South Terriside,Farm,Carnivore,Yes
+Horse,Thoroughbred,19,182.6,Aqua,North Jonathanhaven,Mountain,Omnivore,Yes
+Dog,Labrador,15,215.9,Peru,Gouldview,Wetlands,Herbivore,Yes
+Cat,Persian,20,360.0,White,West Larry,Desert,Carnivore,Yes
+Cow,Sahiwal,15,183.4,PaleGreen,Christopherbury,Mountain,Carnivore,Yes
+Horse,Mustang,7,170.4,Orange,Anthonyton,Mountain,Herbivore,Yes
+Parrot,Budgerigar,16,28.5,DarkGray,Lake Autumnburgh,Jungle,Herbivore,Yes
+Parrot,Macaw,10,164.5,MediumTurquoise,West Shelia,Urban,Omnivore,Yes
+Cow,Sahiwal,4,468.7,PowderBlue,Port Pamela,Urban,Carnivore,Yes
+Horse,Thoroughbred,20,405.9,GreenYellow,South Ashleyville,Farm,Omnivore,Yes
+Dog,Labrador,9,92.8,GhostWhite,Whiteborough,Farm,Omnivore,Yes
+Horse,Mustang,17,148.7,LavenderBlush,Bruceport,Wetlands,Herbivore,Yes
+Parrot,Cockatiel,11,451.3,PapayaWhip,Rodriguezchester,Mountain,Omnivore,Yes
+Lion,Asiatic,7,339.7,DeepSkyBlue,Daltonberg,Wetlands,Carnivore,No
+Parrot,Cockatiel,13,296.3,Olive,North Lisamouth,Urban,Herbivore,Yes
+Goat,Boer,2,48.8,MidnightBlue,East Amy,Farm,Herbivore,Yes
+Parrot,Cockatiel,14,30.4,SeaShell,Hillhaven,Farm,Omnivore,Yes
+Elephant,Asian,10,283.2,Plum,Lake Clintonbury,Mountain,Omnivore,No
+Horse,Mustang,13,51.0,SeaGreen,East Jennifer,Desert,Omnivore,Yes
+Elephant,Asian,10,408.9,Tomato,West Matthew,Farm,Omnivore,No
+Elephant,Asian,20,383.6,ForestGreen,Lake Anthony,Jungle,Omnivore,No
+Cat,Siamese,10,429.3,WhiteSmoke,Johnsonburgh,Forest,Carnivore,Yes
+Cat,Siamese,8,123.6,SandyBrown,South Jessemouth,Savannah,Carnivore,Yes
+Parrot,Cockatiel,11,231.5,Plum,New Yvette,Wetlands,Herbivore,Yes
+Dog,German Shepherd,10,377.3,DarkTurquoise,Davidstad,Forest,Herbivore,Yes
+Horse,Arabian,18,87.7,Cyan,East Ritabury,Savannah,Omnivore,Yes
+Goat,Boer,15,189.7,Coral,Port Katietown,Wetlands,Omnivore,Yes
+Parrot,Macaw,4,143.3,MediumPurple,Brownview,Wetlands,Carnivore,Yes
+Rabbit,Lop,15,42.7,FireBrick,Brandyville,Farm,Carnivore,Yes
+Parrot,Budgerigar,9,210.9,LightCoral,Kevinview,Urban,Carnivore,Yes
+Goat,Saanen,6,68.7,Peru,Hayesville,Farm,Carnivore,Yes
+Cow,Sahiwal,4,336.2,DarkKhaki,New Stephen,Farm,Omnivore,Yes
+Cat,Persian,13,187.1,FloralWhite,Brookemouth,Desert,Omnivore,Yes
+Tiger,Siberian,10,26.6,Aqua,North Ralphfurt,Savannah,Herbivore,No
+Horse,Mustang,2,371.1,Gold,Port Heather,Wetlands,Omnivore,Yes
+Lion,Asiatic,20,287.8,MistyRose,Lake Stephen,Desert,Herbivore,No
+Dog,Labrador,14,287.0,MediumVioletRed,East Brittanyborough,Forest,Carnivore,Yes
+Horse,Thoroughbred,8,134.8,Salmon,Brownshire,Savannah,Herbivore,Yes
+Goat,Boer,20,249.1,MediumBlue,Wongstad,Forest,Carnivore,Yes
+Horse,Thoroughbred,5,82.2,DeepPink,North Timothy,Urban,Herbivore,Yes
+Parrot,Macaw,10,4.9,Brown,Francisborough,Urban,Omnivore,Yes
+Parrot,Macaw,16,214.2,NavajoWhite,Kingburgh,Savannah,Omnivore,Yes
+Horse,Thoroughbred,1,309.4,Cyan,Robertborough,Urban,Carnivore,Yes
+Elephant,Asian,8,443.6,Thistle,Jamesfort,Jungle,Omnivore,No
+Lion,African,3,26.3,RosyBrown,Kelseybury,Urban,Herbivore,No
+Rabbit,Mini Rex,7,154.3,Sienna,New Briannafort,Desert,Omnivore,Yes
+Parrot,Macaw,8,460.2,Red,South Nathanielville,Mountain,Carnivore,Yes
+Parrot,Budgerigar,5,17.9,Crimson,South Lori,Farm,Herbivore,Yes
+Horse,Mustang,5,291.3,DarkCyan,South Dawn,Mountain,Herbivore,Yes
+Tiger,Siberian,11,304.5,LightBlue,New James,Forest,Herbivore,No
+Elephant,African,11,81.1,DarkMagenta,Kaitlynshire,Savannah,Carnivore,No
+Cat,Persian,15,328.2,Magenta,East Michellechester,Forest,Omnivore,Yes
+Parrot,Budgerigar,12,400.9,LightGreen,Choishire,Forest,Omnivore,Yes
+Horse,Arabian,11,206.3,GoldenRod,East Taratown,Desert,Herbivore,Yes
+Dog,Labrador,6,151.0,GhostWhite,Patrickhaven,Farm,Carnivore,Yes
+Tiger,Bengal,16,368.6,DarkKhaki,New Annehaven,Jungle,Herbivore,No
+Goat,Nubian,12,461.0,MediumVioletRed,Garciashire,Mountain,Herbivore,Yes
+Elephant,African,4,225.1,Tomato,Vickichester,Mountain,Herbivore,No
+Goat,Nubian,20,118.0,PeachPuff,Lake Julie,Urban,Herbivore,Yes
+Tiger,Bengal,7,184.7,Gray,Thomasport,Savannah,Carnivore,No
+Lion,African,14,315.4,Violet,South Carrie,Farm,Omnivore,No
+Cat,Siamese,16,167.3,MistyRose,Watsonshire,Mountain,Carnivore,Yes
+Horse,Arabian,7,380.2,Lavender,Colemanmouth,Mountain,Carnivore,Yes
+Horse,Arabian,13,30.0,LimeGreen,West Charlestown,Forest,Omnivore,Yes
+Parrot,Budgerigar,15,473.0,Indigo,West Phillip,Farm,Omnivore,Yes
+Tiger,Siberian,18,453.3,MintCream,New Kyleville,Wetlands,Carnivore,No
+Rabbit,Lop,16,182.9,Cyan,Mariamouth,Wetlands,Carnivore,Yes
+Dog,Labrador,3,62.0,Plum,Changport,Desert,Omnivore,Yes
+Horse,Thoroughbred,8,48.3,LightGoldenRodYellow,New Stacey,Desert,Omnivore,Yes
+Horse,Thoroughbred,5,85.3,IndianRed,Michaelborough,Farm,Carnivore,Yes
+Rabbit,Mini Rex,20,259.6,RosyBrown,Lake Allen,Desert,Carnivore,Yes
+Cow,Gir,20,116.0,Linen,Brandonbury,Wetlands,Carnivore,Yes
+Parrot,Budgerigar,1,92.3,Cornsilk,North Loganbury,Desert,Carnivore,Yes
+Cow,Gir,16,29.0,LemonChiffon,New Jacquelineside,Jungle,Herbivore,Yes
+Tiger,Bengal,9,257.2,Purple,East Keithview,Desert,Carnivore,No
+Dog,Bulldog,2,385.6,LightGreen,Lake George,Urban,Carnivore,Yes
+Rabbit,Lop,1,374.5,Lime,South Conniebury,Farm,Omnivore,Yes
+Dog,Labrador,18,152.8,LightGreen,South Andrew,Urban,Carnivore,Yes
+Horse,Arabian,3,259.6,AliceBlue,Guzmanberg,Savannah,Carnivore,Yes
+Elephant,African,12,80.2,DodgerBlue,Allenview,Wetlands,Carnivore,No
+Goat,Boer,4,328.1,MediumVioletRed,West Cindymouth,Farm,Omnivore,Yes
+Horse,Thoroughbred,15,391.3,BurlyWood,Hoffmanfort,Jungle,Carnivore,Yes
+Cow,Jersey,7,391.4,Bisque,Markhaven,Jungle,Herbivore,Yes
+Elephant,Asian,7,108.2,Blue,South Pamelaport,Jungle,Carnivore,No
+Horse,Mustang,16,159.7,MediumTurquoise,Susanmouth,Forest,Omnivore,Yes
+Tiger,Bengal,16,181.2,LightGoldenRodYellow,South Jessica,Desert,Omnivore,No
+Dog,Bulldog,8,381.3,LightGoldenRodYellow,East Andrew,Urban,Carnivore,Yes
+Cat,Siamese,14,292.1,Tomato,Parrishport,Savannah,Herbivore,Yes
+Lion,African,3,26.8,DarkSalmon,Nortonview,Mountain,Herbivore,No
+Goat,Nubian,7,176.7,CadetBlue,Port Stephanieborough,Desert,Omnivore,Yes
+Tiger,Siberian,14,148.5,Navy,Grimesstad,Savannah,Omnivore,No
+Horse,Arabian,17,425.5,SaddleBrown,Lake Rebekah,Forest,Omnivore,Yes
+Lion,Asiatic,15,192.9,Aquamarine,West Steven,Wetlands,Omnivore,No
+Horse,Mustang,4,354.2,Chocolate,Kennethfort,Urban,Omnivore,Yes
+Dog,German Shepherd,2,49.5,Peru,North Matthew,Desert,Carnivore,Yes
+Parrot,Budgerigar,11,225.2,PaleTurquoise,West Herbertland,Farm,Carnivore,Yes
+Rabbit,Dutch,13,213.3,SlateGray,Colemanfort,Forest,Carnivore,Yes
+Tiger,Bengal,19,465.7,RoyalBlue,Adamfort,Mountain,Herbivore,No
+Cat,Persian,5,422.9,RosyBrown,Lake Kristenburgh,Wetlands,Omnivore,Yes
+Lion,Asiatic,15,285.5,White,West Danielhaven,Jungle,Carnivore,No
+Horse,Mustang,5,339.3,PowderBlue,New Gabrielland,Jungle,Omnivore,Yes
+Elephant,Asian,12,305.6,Pink,North Rebecca,Mountain,Omnivore,No
+Elephant,Asian,8,392.2,MediumPurple,Whitefurt,Urban,Carnivore,No
+Lion,African,11,242.4,DeepSkyBlue,Kathleenport,Forest,Omnivore,No
+Dog,German Shepherd,5,229.5,MediumSpringGreen,Rhondastad,Urban,Carnivore,Yes
+Lion,African,4,181.3,FireBrick,Howardtown,Urban,Omnivore,No
+Rabbit,Mini Rex,14,445.8,SaddleBrown,Tinachester,Farm,Omnivore,Yes
+Cow,Jersey,12,242.0,MediumBlue,New Brian,Savannah,Carnivore,Yes
+Horse,Thoroughbred,4,383.8,MediumOrchid,Port Sarahmouth,Savannah,Herbivore,Yes
+Horse,Arabian,5,348.3,DarkSeaGreen,Anthonytown,Mountain,Carnivore,Yes
+Cat,Siamese,3,158.6,Yellow,East Danielleland,Wetlands,Carnivore,Yes
+Parrot,Macaw,6,281.1,BlanchedAlmond,Port Wesleybury,Urban,Omnivore,Yes
+Parrot,Budgerigar,4,260.7,LimeGreen,Lake Leslieberg,Savannah,Carnivore,Yes
+Goat,Boer,4,247.2,DimGray,Lisaview,Mountain,Omnivore,Yes
+Parrot,Budgerigar,9,498.1,GreenYellow,North Gwendolynville,Urban,Omnivore,Yes
+Dog,Labrador,18,458.4,ForestGreen,Richardsonton,Forest,Carnivore,Yes
+Dog,Labrador,9,106.7,MediumVioletRed,East Joshuaborough,Urban,Omnivore,Yes
+Elephant,Asian,3,46.5,SandyBrown,Sandraport,Wetlands,Herbivore,No
+Cow,Jersey,14,204.7,Orange,East Zacharytown,Urban,Omnivore,Yes
+Lion,Asiatic,14,345.6,SkyBlue,Staceyfort,Jungle,Carnivore,No
+Horse,Thoroughbred,5,70.1,BlueViolet,Simmonschester,Urban,Omnivore,Yes
+Cat,Persian,12,18.0,Bisque,East Christopher,Farm,Omnivore,Yes
+Rabbit,Dutch,14,4.9,LemonChiffon,Davidtown,Savannah,Herbivore,Yes
+Lion,African,3,235.8,DarkGreen,Melissashire,Urban,Herbivore,No
+Elephant,African,8,368.5,LightGray,Jacquelinebury,Savannah,Carnivore,No
+Lion,African,7,181.0,Silver,Roblesburgh,Mountain,Herbivore,No
+Tiger,Bengal,12,15.2,Snow,West Danielside,Forest,Omnivore,No
+Cat,Siamese,15,50.3,FireBrick,Ashleyport,Mountain,Herbivore,Yes
+Dog,Bulldog,6,111.8,MediumAquaMarine,West Kristen,Farm,Herbivore,Yes
+Cat,Siamese,1,7.0,PaleGoldenRod,Martinland,Farm,Herbivore,Yes
+Cat,Siamese,11,264.9,NavajoWhite,Youngburgh,Mountain,Carnivore,Yes
+Elephant,African,7,139.4,Gray,South Brianhaven,Wetlands,Carnivore,No
+Parrot,Budgerigar,9,161.1,PaleGreen,Port Crystalland,Mountain,Herbivore,Yes
+Parrot,Macaw,5,24.4,PapayaWhip,Amandaland,Farm,Herbivore,Yes
+Parrot,Macaw,16,115.8,CornflowerBlue,North Joshua,Forest,Herbivore,Yes
+Dog,German Shepherd,11,287.3,LightCyan,Mayburgh,Farm,Carnivore,Yes
+Cat,Persian,12,304.0,MediumSeaGreen,Laneville,Farm,Herbivore,Yes
+Parrot,Macaw,2,330.9,DarkSlateGray,North Eric,Mountain,Carnivore,Yes
+Rabbit,Dutch,18,130.2,Olive,Brandiview,Farm,Omnivore,Yes
+Horse,Mustang,13,443.7,LightSteelBlue,New Sarah,Mountain,Herbivore,Yes
+Horse,Thoroughbred,7,117.5,MediumBlue,Davisstad,Forest,Omnivore,Yes
+Cat,Siamese,1,318.9,Green,North Connieside,Mountain,Herbivore,Yes
+Horse,Mustang,17,483.4,DarkTurquoise,Erikaland,Jungle,Omnivore,Yes
+Tiger,Siberian,1,497.3,Tan,Lake Emilystad,Wetlands,Carnivore,No
+Parrot,Budgerigar,17,111.7,Chartreuse,North Tiffanytown,Savannah,Omnivore,Yes
+Parrot,Macaw,5,73.7,SlateBlue,New Craigshire,Mountain,Omnivore,Yes
+Elephant,African,19,276.6,OliveDrab,New Rebeccahaven,Desert,Herbivore,No
+Dog,Bulldog,19,248.9,FireBrick,Ashleyshire,Wetlands,Herbivore,Yes
+Rabbit,Mini Rex,2,26.4,FloralWhite,North Michelle,Forest,Carnivore,Yes
+Cat,Siamese,11,58.1,Cornsilk,North Hunter,Urban,Carnivore,Yes
+Parrot,Macaw,17,292.4,MediumAquaMarine,New Raymond,Farm,Herbivore,Yes
+Goat,Nubian,18,429.8,Khaki,Lindaport,Farm,Herbivore,Yes
+Goat,Boer,16,245.5,Aqua,Port Sherrystad,Mountain,Herbivore,Yes
+Rabbit,Dutch,3,283.6,Wheat,Middletonton,Farm,Herbivore,Yes
+Cat,Siamese,18,273.6,Maroon,Maddoxview,Urban,Omnivore,Yes
+Lion,African,2,487.3,MediumSeaGreen,Williamsview,Urban,Carnivore,No
+Elephant,Asian,5,294.6,Red,Escobarmouth,Jungle,Herbivore,No
+Horse,Mustang,9,127.3,Tan,Elizabethhaven,Farm,Carnivore,Yes
+Lion,African,13,444.5,Teal,New Cory,Mountain,Omnivore,No
+Cat,Siamese,18,334.8,Red,Gardnerberg,Urban,Carnivore,Yes
+Dog,German Shepherd,11,369.7,MidnightBlue,North Christineside,Wetlands,Carnivore,Yes
+Rabbit,Dutch,20,473.7,Turquoise,Jeromemouth,Forest,Herbivore,Yes
+Goat,Boer,15,318.2,MediumOrchid,East Lisaland,Wetlands,Carnivore,Yes
+Parrot,Budgerigar,17,24.9,YellowGreen,Averystad,Jungle,Herbivore,Yes
+Cow,Jersey,12,200.6,Blue,Walkermouth,Desert,Herbivore,Yes
+Elephant,Asian,7,440.0,GreenYellow,North Russellland,Desert,Herbivore,No
+Cat,Maine Coon,16,328.7,DarkCyan,Deniseport,Savannah,Omnivore,Yes
+Lion,African,18,371.8,SlateBlue,Robinview,Jungle,Omnivore,No
+Tiger,Bengal,18,23.0,DodgerBlue,Matthewview,Urban,Omnivore,No
+Rabbit,Lop,12,66.4,BlanchedAlmond,South Williamchester,Wetlands,Carnivore,Yes
+Cow,Sahiwal,12,446.9,OldLace,Reginaldmouth,Mountain,Carnivore,Yes
+Goat,Saanen,7,154.8,HotPink,North Jessica,Desert,Herbivore,Yes
+Rabbit,Lop,12,6.0,White,Johnfort,Forest,Carnivore,Yes
+Elephant,African,10,376.9,MintCream,Colemouth,Desert,Carnivore,No
+Elephant,Asian,15,12.4,Sienna,West Tiffanychester,Mountain,Carnivore,No
+Dog,Bulldog,16,396.4,ForestGreen,West Pamela,Farm,Omnivore,Yes
+Dog,Labrador,11,378.4,LavenderBlush,Lake Jamiemouth,Forest,Herbivore,Yes
+Rabbit,Mini Rex,14,343.8,SaddleBrown,South Catherineberg,Wetlands,Herbivore,Yes
+Dog,Bulldog,19,142.7,SkyBlue,North Ashley,Urban,Herbivore,Yes
+Lion,Asiatic,17,354.0,MistyRose,Kyleborough,Wetlands,Carnivore,No
+Cow,Sahiwal,6,423.8,Gray,Karenbury,Forest,Herbivore,Yes
+Tiger,Siberian,6,433.0,OldLace,Brownbury,Mountain,Carnivore,No
+Rabbit,Dutch,20,489.5,MintCream,North Alejandra,Wetlands,Omnivore,Yes
+Lion,African,17,21.5,SlateGray,Port Ryanshire,Wetlands,Carnivore,No
+Cow,Jersey,9,148.7,Gainsboro,Kentstad,Savannah,Herbivore,Yes
+Lion,Asiatic,4,245.6,LightPink,Dawsonland,Urban,Omnivore,No
+Parrot,Cockatiel,2,345.3,Red,Williamsside,Wetlands,Omnivore,Yes
+Rabbit,Lop,8,433.4,Tan,South Patrick,Savannah,Herbivore,Yes
+Elephant,Asian,1,179.2,DarkViolet,Gregoryport,Farm,Herbivore,No
+Tiger,Bengal,3,188.7,Bisque,West Raymondhaven,Desert,Carnivore,No
+Lion,Asiatic,16,151.0,OldLace,New Jennifer,Urban,Omnivore,No
+Goat,Nubian,17,385.9,Brown,Rayburgh,Desert,Omnivore,Yes
+Dog,German Shepherd,11,299.0,PaleGoldenRod,Harperside,Farm,Herbivore,Yes
+Horse,Mustang,17,258.1,SteelBlue,Port Ryanport,Wetlands,Omnivore,Yes
+Dog,German Shepherd,13,66.7,GhostWhite,Lake Ashleyfort,Savannah,Herbivore,Yes
+Elephant,Asian,19,487.1,Indigo,Christopherborough,Jungle,Herbivore,No
+Lion,Asiatic,3,449.1,CadetBlue,Lake Jason,Farm,Omnivore,No
+Parrot,Macaw,6,141.5,Moccasin,South Alfredmouth,Jungle,Carnivore,Yes
+Parrot,Cockatiel,8,470.8,Blue,North Angelica,Farm,Carnivore,Yes
+Cow,Gir,14,85.6,Bisque,East Tyler,Wetlands,Herbivore,Yes
+Tiger,Bengal,16,31.0,YellowGreen,Masontown,Forest,Carnivore,No
+Rabbit,Lop,9,408.7,IndianRed,Watsonburgh,Wetlands,Herbivore,Yes
+Tiger,Bengal,14,7.1,LightGoldenRodYellow,Philipberg,Farm,Herbivore,No
+Tiger,Siberian,3,7.9,DarkKhaki,Kingtown,Forest,Carnivore,No
+Cow,Gir,4,191.2,GreenYellow,Ronaldland,Wetlands,Carnivore,Yes
+Rabbit,Mini Rex,2,371.8,Turquoise,Vancemouth,Mountain,Carnivore,Yes
+Horse,Arabian,13,456.3,Teal,South Melissa,Mountain,Omnivore,Yes
+Rabbit,Lop,4,300.1,AliceBlue,West Scott,Forest,Omnivore,Yes
+Goat,Nubian,6,272.8,DimGray,Petertown,Wetlands,Omnivore,Yes
+Parrot,Macaw,7,248.3,RoyalBlue,Lake Tina,Urban,Herbivore,Yes
+Goat,Boer,6,40.4,DarkGray,West Jamesville,Desert,Carnivore,Yes
+Tiger,Bengal,7,300.9,Peru,Williamschester,Desert,Herbivore,No
+Cat,Persian,6,170.0,Red,Henryton,Wetlands,Herbivore,Yes
+Parrot,Budgerigar,7,310.5,BlanchedAlmond,Gonzalezland,Desert,Herbivore,Yes
+Elephant,Asian,6,327.8,FireBrick,Port Ashleyfort,Farm,Herbivore,No
+Dog,Labrador,16,385.1,DarkGoldenRod,East Angela,Jungle,Herbivore,Yes
+Dog,Labrador,11,377.4,Maroon,East Emily,Farm,Herbivore,Yes
+Parrot,Cockatiel,10,16.6,SeaShell,Marioburgh,Desert,Carnivore,Yes
+Elephant,Asian,12,197.9,MistyRose,North Chelsea,Wetlands,Omnivore,No
+Rabbit,Dutch,1,478.3,PapayaWhip,West Cassandraborough,Jungle,Carnivore,Yes
+Rabbit,Lop,10,214.0,DarkGray,West Janet,Savannah,Omnivore,Yes
+Rabbit,Dutch,11,119.7,Purple,West Russell,Wetlands,Carnivore,Yes
+Cow,Sahiwal,12,329.7,DarkSeaGreen,Port Donna,Wetlands,Herbivore,Yes
+Elephant,African,14,177.2,DarkCyan,East Pamela,Savannah,Omnivore,No
+Horse,Thoroughbred,19,250.9,DarkGoldenRod,South Elizabethtown,Desert,Omnivore,Yes
+Parrot,Budgerigar,5,44.0,LightCyan,South Jessicaview,Savannah,Carnivore,Yes
+Cat,Maine Coon,10,155.7,DarkSlateGray,East Lancestad,Farm,Omnivore,Yes
+Horse,Mustang,17,259.5,Plum,Williammouth,Wetlands,Omnivore,Yes
+Tiger,Siberian,10,145.2,RoyalBlue,West Jennifertown,Savannah,Carnivore,No
+Tiger,Bengal,16,423.8,LightPink,New Aliciaton,Jungle,Herbivore,No
+Elephant,Asian,19,489.4,DarkViolet,Port Alexis,Urban,Carnivore,No
+Tiger,Bengal,13,282.3,Ivory,East Christine,Jungle,Omnivore,No
+Horse,Thoroughbred,9,233.8,NavajoWhite,Port Davidberg,Farm,Carnivore,Yes
+Lion,African,5,51.2,BurlyWood,Lake Christophermouth,Mountain,Herbivore,No
+Cat,Maine Coon,5,50.1,Gray,South Michelle,Urban,Herbivore,Yes
+Elephant,African,10,300.0,ForestGreen,Silvaberg,Urban,Herbivore,No
+Lion,Asiatic,15,238.9,LightPink,North Michaelfort,Forest,Omnivore,No
+Dog,Labrador,18,70.2,MintCream,East Mary,Forest,Carnivore,Yes
+Lion,Asiatic,10,61.7,LightGreen,South Stephen,Farm,Carnivore,No
