@@ -8,11 +8,11 @@ import pickle
 
 
 #load the dataset
-dataset = pd.read_csv(r"C:\Users\sss\Downloads\15th- SLR\SLR - House price prediction\House_data.csv")
+dataset = pd.read_csv(r"C:\Users\sss\Downloads\20th - mlr\MLR\House_data.csv")
 
 # Split the data independnet into dependent variable
-x = dataset.iloc[:,:-1].values
-y = dataset.iloc[:,-1].values
+x = dataset[['sqft_living']]
+y = dataset['price']
 
 #Split the dataset into training and testing sets(80-20%)
 x_train, x_test, y_train, y_test = train_test_split(x,y, test_size=0.2, random_state=0)
